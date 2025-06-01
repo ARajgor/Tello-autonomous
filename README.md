@@ -55,6 +55,6 @@ Third part is to control the drone with voice commands.
 
 ## Medium Article and demo video
 
-- [Medium Article](https://medium.com/@ayushrajgorar/building-autonomous-drone-in-python-part-1-bbb106fd4337)
+- [Medium Article](https://medium.com/gopenai/tello-autonomous-drone-python-dd396c459e86)
 - [Video link](https://youtu.be/pAnymxT97g0?si=YVC7WN20GCNuF43X)
 
